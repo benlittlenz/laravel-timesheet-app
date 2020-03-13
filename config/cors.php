@@ -19,7 +19,8 @@ return [
         'api/*',
         'login',
         'logout',
-        'airlock/csrf-cookie'
+        'airlock/csrf-cookie',
+        'home'
     ],
 
     'allowed_methods' => ['*'],
